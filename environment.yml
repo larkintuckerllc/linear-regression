@@ -6,5 +6,6 @@ dependencies:
   - boto3=1.36.3
   - ipykernel=6.29.5
   - pandas=2.2.3
+  - seaborn=0.13.2
 platforms:
   - linux-64
